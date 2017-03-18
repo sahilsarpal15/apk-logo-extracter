@@ -1,0 +1,6 @@
+{
+	
+    "require": {
+        "tufanbarisyildirim/php-apk-parser": "dev-master"
+    }
+}
